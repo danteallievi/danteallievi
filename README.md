@@ -15,8 +15,6 @@ I'm Argentinian passionate web developer and fan of technology. You can find my 
 - GrahpQL
 - Vue
 
-## 📧 How find me : [danteallievi@gmail.com](mailto:danteallievi@gmail.com)
-
-You can find me on <a href="https://www.linkedin.com/in/dante-allievi-3907291b2/"> <img src="https://img.shields.io/badge/LinkedIn-gray?style=flat&logo=linkedin&logoColor=white)"/></a>
+## 📧 How find me : <a href="https://www.linkedin.com/in/dante-allievi-3907291b2/"> <img src="https://img.shields.io/badge/LinkedIn-gray?style=flat&logo=linkedin&logoColor=white)"/></a> || [danteallievi@gmail.com](mailto:danteallievi@gmail.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danteallievi&layout=compact&theme=dracula)](#)
