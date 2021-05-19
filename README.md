@@ -2,12 +2,12 @@
 
 <h1 align="center"> Hello, I'm Dante </h1>
 
-## 👨🏽‍💻&nbsp;About me
+### 👨🏽‍💻&nbsp;About me
 
 I'm Argentinian passionate web developer and fan of technology. You can find my portfolio here: https://danteallievi-portfolio.netlify.app/
 
 
-## 🛠&nbsp;Tech Stack
+### 🛠&nbsp;Tech Stack
 
   - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -24,26 +24,21 @@ I'm Argentinian passionate web developer and fan of technology. You can find my 
   - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-## 👨🏽‍🎓&nbsp;I’m Interested In Learning:<br>
+### 👨🏽‍🎓&nbsp;I’m Interested In Learning:<br>
 
 - Typescript
 - Next.js
 - GrahpQL
 - Vue
 
-## 🤝🏻&nbsp;Connect with Me
+### 🤝🏻&nbsp;Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/dante-allievi-3907291b2/"><img src="https://img.shields.io/badge/-Dante%20Allievi%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:danteallievi@gmail.com"><img src="https://img.shields.io/badge/-danteallievi@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 
-
-
-
-
-
-
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/danteallievi">
