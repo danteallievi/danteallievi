@@ -2,11 +2,27 @@
 
 <h1 align="center"> Hello, I'm Dante </h1>
 
+## 👨🏽‍💻&nbsp;About me
+
 I'm Argentinian passionate web developer and fan of technology. You can find my portfolio here: https://danteallievi-portfolio.netlify.app/
 
-## 👨🏽‍💻 Technologies I use:
 
-![VSCode badge](https://img.shields.io/badge/IDE-VSCode-blue?style=flat&logo=Visual-Studio-Code&logoColor=blue)&nbsp;![JS badge](https://img.shields.io/badge/Code-Javascript-blue?style=flat&logo=javascript)&nbsp;![React.js Badge](https://img.shields.io/badge/Code-React.js-blue?style=flat&logo=react)&nbsp;![Node.js Badge](https://img.shields.io/badge/Code-node.js-blue?style=flat&logo=node.js)
+## 🛠&nbsp;Tech Stack
+
+  - 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  - 🛢 &nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  - ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  - 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ## 👨🏽‍🎓 I’m Interested In Learning:<br>
 
