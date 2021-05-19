@@ -21,19 +21,11 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)\
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-### 👨🏽‍🎓&nbsp;I’m Interested In Learning:<br>
-
-- Typescript
-- Next.js
-- GrahpQL
-- Vue
-
 ### 🤝🏻&nbsp;Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/dante-allievi-3907291b2/"><img src="https://img.shields.io/badge/-Dante%20Allievi%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:danteallievi@gmail.com"><img src="https://img.shields.io/badge/-danteallievi@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
-
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -43,6 +35,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danteallievi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-
-
