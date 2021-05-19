@@ -1,9 +1,7 @@
 [![Header](https://source.unsplash.com/hbb6GkG6p9M/1000x200)](https://danteallievi.github.io)
 
 <h1 align="center"> Hello, I'm Dante </h1>
-\
 ### 👨🏽‍💻&nbsp;About me
-
 🌱 &nbsp;I'm Argentinian passionate web developer and fan of technology.\
 🎓 &nbsp;I'm on track for learning more about Web development, UI & UX, and Cloud Architecture.\
 📄 &nbsp;Please have a look at my [Portfolio](https://danteallievi-portfolio.netlify.app/) for more details about me. I'm open to feedback and suggestions!
