@@ -21,4 +21,9 @@ I'm Argentinian passionate web developer and fan of technology. You can find my 
 <a href="mailto:danteallievi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-danteallievi@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 
+
+<a href="https://www.linkedin.com/in/dante-allievi-3907291b2/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dante%20Allievi%20Singh-blue?style=flat-square&logo=linkedin"></a>
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danteallievi&layout=compact&theme=dracula)](#)
