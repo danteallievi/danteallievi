@@ -4,7 +4,9 @@
 
 ### 👨🏽‍💻&nbsp;About me
 
-I'm Argentinian passionate web developer and fan of technology. You can find my portfolio here: https://danteallievi-portfolio.netlify.app/
+🌱 &nbsp;I'm Argentinian passionate web developer and fan of technology. 
+🎓 &nbsp;I'm on track for learning more about Web development, UI & UX, and Cloud Architecture.
+📄 &nbsp;Please have a look at my [Portfolio](https://danteallievi-portfolio.netlify.app/) for more details about me. I'm open to feedback and suggestions!
 
 
 ### 🛠&nbsp;Tech Stack
