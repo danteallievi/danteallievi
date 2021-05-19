@@ -24,7 +24,7 @@ I'm Argentinian passionate web developer and fan of technology. You can find my 
   - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-## 👨🏽‍🎓 I’m Interested In Learning:<br>
+## 👨🏽‍🎓&nbsp;I’m Interested In Learning:<br>
 
 - Typescript
 - Next.js
@@ -41,5 +41,5 @@ I'm Argentinian passionate web developer and fan of technology. You can find my 
 
 
 
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danteallievi&theme=buefy&show_icons=true" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danteallievi&layout=compact&theme=dracula)](#)
