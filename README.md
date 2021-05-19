@@ -38,8 +38,11 @@ I'm Argentinian passionate web developer and fan of technology. You can find my 
 </p>
 
 
+<a href="https://github.com/danteallievi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danteallievi&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danteallievi&theme=buefy&layout=compact" />
+</a>
 
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danteallievi&theme=buefy&show_icons=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danteallievi&layout=compact&theme=dracula)](#)
+
