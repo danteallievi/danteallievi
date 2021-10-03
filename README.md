@@ -19,14 +19,15 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)\
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Express.js](https://img.shields.io/badge/express.js-333333?style=flat&logo=express&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-333333?style=flat&logo=express&logoColor=%2361DAFB)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)\
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)\
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Redux](https://img.shields.io/badge/redux-333333?style=for-the-badge&logo=redux&logoColor=white)\
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-333333?style=flat&logo=tailwind-css&logoColor=white)
   ![SASS](https://img.shields.io/badge/SASS-333333?style=flat&logo=SASS&logoColor=hotpink)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)\
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)\
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/figma-333333?style=flat&logo=figma&logoColor=white)
 
