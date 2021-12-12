@@ -16,8 +16,8 @@
 
 ## 🛠&nbsp;Tech Stack
 
-<img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" alt="bootstrap" width="40" height="40" />
-  ![HTML5]
+<img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" alt="bootstrap" width="40" />
+  
 </p>
   
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
