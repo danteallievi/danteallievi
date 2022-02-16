@@ -5,7 +5,6 @@
 ## 👨🏽‍💻&nbsp;About me
 
 🌱 &nbsp;I'm Argentinian passionate web developer currently living in Barcelona.\
-🎓 &nbsp;I'm on track for learning TypeScript, UI & UX, and Cloud Architecture.\
 📄 &nbsp;Have a look at my [Portfolio](https://danteallievi-portfolio.netlify.app/) for more details about me. I'm always open to feedback and suggestions!
 
 <p align="center">
