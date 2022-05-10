@@ -5,7 +5,6 @@
 ## 👨🏽‍💻&nbsp;About me
 
 🌱 &nbsp;I'm Argentinian passionate web developer currently living in Barcelona.\
-📄 &nbsp;Have a look at my [Portfolio](https://danteallievi-portfolio.netlify.app/) for more details about me. I'm always open to feedback and suggestions!
 
 <p align="center">
 <a href="https://www.linkedin.com/in/dante-allievi-3907291b2/"><img src="https://img.shields.io/badge/-Dante%20Allievi%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
