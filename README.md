@@ -11,9 +11,7 @@
 <a href="mailto:danteallievi@gmail.com"><img src="https://img.shields.io/badge/-danteallievi@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
-
 ## &nbsp;
-
 <p align="center">
 <a href="https://github.com/danteallievi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=danteallievi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
