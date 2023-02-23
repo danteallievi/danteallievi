@@ -2,9 +2,9 @@
 
 <h1 align="center"> Hi there, I'm Dante </h1>
 
-🌱 &nbsp;From Buenos Aires, Argentina. Currently working at <a href="https://toqio.co/">Toqio</a>. 
-👨‍💻 &nbsp;Passionate about development.
-🎷 &nbsp;Good music lover.
+<p>🌱 &nbsp;From Buenos Aires, Argentina. Currently working at <a href="https://toqio.co/">Toqio</a>.</p>
+<p>👨‍💻 &nbsp;Passionate about development.</p>
+<p>🎷 &nbsp;Good music lover.</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/dante-allievi-3907291b2/"><img src="https://img.shields.io/badge/-Dante%20Allievi%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
