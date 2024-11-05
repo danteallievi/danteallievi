@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi there, I'm Dante </h1>
 
-<p>🌱 &nbsp;From Buenos Aires, Argentina. Currently working at <a href="https://toqio.co/">Toqio</a>.</p>
+<p>🌱 &nbsp;From Buenos Aires, Argentina.</p>
 <p>👨‍💻 &nbsp;Passionate about development.</p>
 <p>🎷 &nbsp;Good music lover.</p>
 <p>🪴 &nbsp;Bonsai art apprentice.</p>
