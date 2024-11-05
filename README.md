@@ -1,5 +1,4 @@
-[![Header](https://source.unsplash.com/hbb6GkG6p9M/1000x200)](https://danteallievi.github.io)
-
+<div align="center"> <img src="https://source.unsplash.com/hbb6GkG6p9M/1000x200"> </div>
 <h1 align="center"> Hi there, I'm Dante </h1>
 
 <p>🌱 &nbsp;From Buenos Aires, Argentina.</p>
